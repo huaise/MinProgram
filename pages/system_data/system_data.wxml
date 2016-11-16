@@ -1,8 +1,0 @@
-<view>
-    <text>手机型号:{{systemInfo.model}} </text>
-    <text>设备像素比:{{systemInfo.pixelRatio}} </text>
-    <text>窗口宽度:{{systemInfo.windowWidth}} </text>
-    <text>窗口高度:{{systemInfo.windowHeight}} </text>
-    <text>微信设置的语言:{{systemInfo.language}} </text>
-    <text>微信版本号:{{systemInfo.version}} </text>
-</view>
