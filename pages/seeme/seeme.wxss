@@ -1,0 +1,12 @@
+.item-avatar-xs image{
+  margin-right:0.5rem;
+}
+.flex-bottom{
+  margin-top:0.4rem;
+}
+page{
+  background-color: #eee;
+}
+view{
+  background-color: white;
+}
