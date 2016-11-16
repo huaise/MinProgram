@@ -1,0 +1,7 @@
+
+.item-avatar-sm image{
+  margin-right:0.4rem;
+}
+.note-top{
+  margin-top:0.2rem; 
+}
